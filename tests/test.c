@@ -4,6 +4,8 @@
 
 #define DELTA 0.1
 
+// Here in Mac Machine Branch
+
 void createGrid(double *x, double *y, int N)
 {
     x[0] = -1.0;
